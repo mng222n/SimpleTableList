@@ -2,8 +2,8 @@
 //  RecipeDetailViewController.h
 //  RecipeBook
 //
-//  Created by Simon Ng on 17/6/12.
-//  Copyright (c) 2012 Appcoda. All rights reserved.
+//  Created by Anh Ng on 2021/07/02.
+//  Copyright (c) 2021. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>

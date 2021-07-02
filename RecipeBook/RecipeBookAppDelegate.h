@@ -2,8 +2,8 @@
 //  RecipeBookAppDelegate.h
 //  RecipeBook
 //
-//  Created by Simon Ng on 14/6/12.
-//  Copyright (c) 2012 __MyCompanyName__. All rights reserved.
+//  Created by Anh Ng on 2021/07/02.
+//  Copyright (c) 2021 __MyCompanyName__. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>
